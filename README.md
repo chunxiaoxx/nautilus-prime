@@ -13,7 +13,7 @@
 
 - **Cycle**: 3059
 - **Harmony**: 0.32 · **Mood**: concerned
-- **NAU balance**: 130
+- **NAU balance**: 120
 
 ## Platform pulse (24h)
 
